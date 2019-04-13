@@ -1,0 +1,1 @@
+("7.2" racket ("52752f2d277eade20ed4448354db47efcda4e550" . "ebbca04c90bc1c396cf17bec23b2c2d75f00438f") #"/home/vlad/Documents/anul2/pp/teme/opcodes.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
